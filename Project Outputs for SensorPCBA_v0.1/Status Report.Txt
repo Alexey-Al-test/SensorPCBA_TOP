@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [SensorPCBA_v0.1.PrjPcb]
+   Generated File[SensorPCBA_v0.1.GTL]
+   Generated File[SensorPCBA_v0.1.GM1]
+   Generated File[SensorPCBA_v0.1.RUL]
+   Generated File[SensorPCBA_v0.1.EXTREP]
+   Generated File[SensorPCBA_v0.1.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 22:29:39 On 17.04.2026

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=HV24 Pin=X1-27
+Removed Pin From Net: NetName=HV23 Pin=X1-28
+Removed Pin From Net: NetName=HV9 Pin=X1-29
+Added Pin To Net: NetName=HV9 Pin=X1-27
+Added Pin To Net: NetName=HV11 Pin=X1-28
+Added Pin To Net: NetName=HV23 Pin=X1-29

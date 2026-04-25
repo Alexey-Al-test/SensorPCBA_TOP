@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=HV1 Pin=SP1-2
+Removed Pin From Net: NetName=HV2 Pin=SP2-2
+Removed Pin From Net: NetName=HV3 Pin=SP3-2
+Removed Pin From Net: NetName=HV4 Pin=SP4-2
+Removed Pin From Net: NetName=HV5 Pin=SP5-2
+Removed Pin From Net: NetName=HV6 Pin=SP6-2
+Removed Pin From Net: NetName=HV7 Pin=SP7-2
+Removed Pin From Net: NetName=HV8 Pin=SP8-2
+Removed Pin From Net: NetName=HV9 Pin=SP9-2
+Removed Pin From Net: NetName=HV10 Pin=SP10-2
+Removed Pin From Net: NetName=HV11 Pin=SP11-2
+Removed Pin From Net: NetName=HV12 Pin=SP12-2
+Removed Pin From Net: NetName=HV13 Pin=SP13-2
+Removed Pin From Net: NetName=HV14 Pin=SP14-2
+Removed Pin From Net: NetName=HV15 Pin=SP15-2
+Removed Pin From Net: NetName=HV16 Pin=SP16-2
+Removed Pin From Net: NetName=HV17 Pin=SP17-2
+Removed Pin From Net: NetName=HV18 Pin=SP18-2
+Removed Pin From Net: NetName=HV19 Pin=SP19-2
+Removed Pin From Net: NetName=HV20 Pin=SP20-2
+Removed Pin From Net: NetName=HV21 Pin=SP21-2
+Removed Pin From Net: NetName=HV22 Pin=SP22-2
+Removed Pin From Net: NetName=HV23 Pin=SP23-2
+Removed Pin From Net: NetName=HV24 Pin=SP24-2
+Removed Pin From Net: NetName=HV25 Pin=SP25-2
+Removed Pin From Net: NetName=HV26 Pin=SP26-2
+Removed Pin From Net: NetName=HV27 Pin=SP27-2
+Removed Pin From Net: NetName=HV28 Pin=SP28-2
+Removed Pin From Net: NetName=HV29 Pin=SP29-2
+Removed Pin From Net: NetName=HV30 Pin=SP30-2
+Removed Pin From Net: NetName=HV31 Pin=SP31-2
+Removed Pin From Net: NetName=HV32 Pin=SP32-2
+Change Component Designator: OldDesignator=SP9 NewDesignator=SP23
+Change Component Designator: OldDesignator=SP11 NewDesignator=SP24
+Change Component Designator: OldDesignator=SP23 NewDesignator=SP11
+Change Component Designator: OldDesignator=SP24 NewDesignator=SP9
+Added Component: Designator=X1(MOLEX_503480-3200)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5034803200/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5034803200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5034803200/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV1 Pin=SP1-1
+Added Pin To Net: NetName=HV2 Pin=SP2-1
+Added Pin To Net: NetName=HV3 Pin=SP3-1
+Added Pin To Net: NetName=HV4 Pin=SP4-1
+Added Pin To Net: NetName=HV5 Pin=SP5-1
+Added Pin To Net: NetName=HV6 Pin=SP6-1
+Added Pin To Net: NetName=HV7 Pin=SP7-1
+Added Pin To Net: NetName=HV8 Pin=SP8-1
+Added Pin To Net: NetName=HV9 Pin=SP9-1
+Added Pin To Net: NetName=HV10 Pin=SP10-1
+Added Pin To Net: NetName=HV11 Pin=SP11-1
+Added Pin To Net: NetName=HV12 Pin=SP12-1
+Added Pin To Net: NetName=HV13 Pin=SP13-1
+Added Pin To Net: NetName=HV14 Pin=SP14-1
+Added Pin To Net: NetName=HV15 Pin=SP15-1
+Added Pin To Net: NetName=HV16 Pin=SP16-1
+Added Pin To Net: NetName=HV17 Pin=SP17-1
+Added Pin To Net: NetName=HV18 Pin=SP18-1
+Added Pin To Net: NetName=HV19 Pin=SP19-1
+Added Pin To Net: NetName=HV20 Pin=SP20-1
+Added Pin To Net: NetName=HV21 Pin=SP21-1
+Added Pin To Net: NetName=HV22 Pin=SP22-1
+Added Pin To Net: NetName=HV23 Pin=SP23-1
+Added Pin To Net: NetName=HV24 Pin=SP24-1
+Added Pin To Net: NetName=HV25 Pin=SP25-1
+Added Pin To Net: NetName=HV26 Pin=SP26-1
+Added Pin To Net: NetName=HV27 Pin=SP27-1
+Added Pin To Net: NetName=HV28 Pin=SP28-1
+Added Pin To Net: NetName=HV29 Pin=SP29-1
+Added Pin To Net: NetName=HV30 Pin=SP30-1
+Added Pin To Net: NetName=HV31 Pin=SP31-1
+Added Pin To Net: NetName=HV32 Pin=SP32-1
+Added Pin To Net: NetName=HV32 Pin=X1-1
+Added Pin To Net: NetName=HV17 Pin=X1-2
+Added Pin To Net: NetName=HV20 Pin=X1-3
+Added Pin To Net: NetName=HV22 Pin=X1-4
+Added Pin To Net: NetName=HV21 Pin=X1-5
+Added Pin To Net: NetName=HV26 Pin=X1-6
+Added Pin To Net: NetName=HV11 Pin=X1-7
+Added Pin To Net: NetName=HV28 Pin=X1-8
+Added Pin To Net: NetName=HV16 Pin=X1-9
+Added Pin To Net: NetName=HV29 Pin=X1-10
+Added Pin To Net: NetName=HV15 Pin=X1-11
+Added Pin To Net: NetName=HV4 Pin=X1-12
+Added Pin To Net: NetName=HV3 Pin=X1-13
+Added Pin To Net: NetName=HV7 Pin=X1-14
+Added Pin To Net: NetName=HV10 Pin=X1-15
+Added Pin To Net: NetName=HV6 Pin=X1-16
+Added Pin To Net: NetName=HV8 Pin=X1-17
+Added Pin To Net: NetName=HV14 Pin=X1-18
+Added Pin To Net: NetName=HV5 Pin=X1-19
+Added Pin To Net: NetName=HV27 Pin=X1-20
+Added Pin To Net: NetName=HV2 Pin=X1-21
+Added Pin To Net: NetName=HV25 Pin=X1-22
+Added Pin To Net: NetName=HV1 Pin=X1-23
+Added Pin To Net: NetName=HV31 Pin=X1-24
+Added Pin To Net: NetName=HV13 Pin=X1-25
+Added Pin To Net: NetName=HV12 Pin=X1-26
+Added Pin To Net: NetName=HV24 Pin=X1-27
+Added Pin To Net: NetName=HV23 Pin=X1-28
+Added Pin To Net: NetName=HV9 Pin=X1-29
+Added Pin To Net: NetName=HV18 Pin=X1-30
+Added Pin To Net: NetName=HV19 Pin=X1-31
+Added Pin To Net: NetName=HV30 Pin=X1-32
+Added Pin To Net: NetName=HV29 Pin=X1-SH1
+Added Pin To Net: NetName=NetLabel35 Pin=X1-SH2
+Added Net: Name=NetLabel35
+Added Member To Class: ClassName=SensorPCBA_v0.1 Member=Component SP18 SensorPAD
+Added Member To Class: ClassName=SensorPCBA_v0.1 Member=Component X1 503480-3200
+Added Room: Name=SensorPCBA_v0.1

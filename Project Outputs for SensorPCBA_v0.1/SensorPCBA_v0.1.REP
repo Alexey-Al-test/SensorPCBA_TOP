@@ -1,0 +1,30 @@
+*************************************************************
+FileName = SensorPCBA_v0.1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : SensorPCBA_v0.1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : SensorPCBA_v0.1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+*************************************************************
+
